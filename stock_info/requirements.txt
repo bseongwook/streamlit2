@@ -4,4 +4,5 @@ finance-datareader
 matplotlib
 plotly
 html5lib
+beautifulsoup4
 openpyxl
